@@ -11,6 +11,14 @@
 
 _Wordpress website rebuilt with PHP._
 
+Before:
+
+![beforeimg](https://i.imgur.com/KrvXhZe.png)
+
+After:
+
+_TBD, deployment date 2.07.18_
+
 
 ## Known Bugs
 
