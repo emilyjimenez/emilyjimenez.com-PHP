@@ -15,7 +15,7 @@
 
 ## Description
 
-_Wordpress website rebuilt with PHP._
+_Wordpress website rebuilt with PHP elements._
 
 Before:
 
@@ -28,12 +28,12 @@ _TBD, deployment date 2.09.18_
 ##Desired Changes
 
 1. Update Portfolio
-2. Two search fields, remove from sidebar or header
+2. ~~Two search fields, remove from sidebar or header~~
 3. Mess with Tag and Category placement
-4. Make header cooler
-5. Build static page that leads to posts
+4. Make header _cooler_
+5. ~~Build static page that leads to posts~~
 6. Create homepage template
-6. Upon further inspection in chateau theme code, share on twitter is an option but not displaying on site, debug this.
+6. Upon further inspection in chateau theme code, share on twitter is an option but not displaying on site, debug this
 
 ## Known Bugs
 
@@ -44,7 +44,7 @@ _NA_
 * Wordpress
 * Hawkhost
 * PHP
-* [Treehouse PHP for Wordpress Tutorial](https://teamtreehouse.com/library/php-for-wordpress)
+* [Treehouse PHP for Wordpress Course](https://teamtreehouse.com/library/php-for-wordpress)
 
 ### License
 
