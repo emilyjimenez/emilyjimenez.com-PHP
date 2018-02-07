@@ -8,7 +8,7 @@
 
 ## Updates, Status
 
-* 2/06/18 - Finished [PHP for Wordpress Treehouse Tutorial](https://teamtreehouse.com/library/php-for-wordpress)
+* 2/06/18 - Finished [PHP for Wordpress Treehouse Course](https://teamtreehouse.com/library/php-for-wordpress)
 * 2/06/18 - Change website layout to static plus blog posts section
 * 2/06/18 - Move project deadline due to time commitments, defined deliverables
 
@@ -25,7 +25,7 @@ After:
 
 _TBD, deployment date 2.09.18_
 
-##Desired Changes
+## Desired Changes
 
 1. Update Portfolio
 2. ~~Two search fields, remove from sidebar or header~~
