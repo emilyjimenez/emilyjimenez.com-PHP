@@ -1,10 +1,16 @@
-# _emilyjimenez.com, now with PHP!_
+# _emilyjimenez.com, now with more PHP!_
 
 ## _Independent Capstone Project - Epicodus_
 
 #### By _Emily Wells Jiménez_
 
-###### _2.07.2018_
+###### _2.09.2018_
+
+## Updates, Status
+
+* 2/06/18 - Finished PHP for [Wordpress Treehouse Tutorial](https://teamtreehouse.com/library/php-for-wordpress)
+* 2/06/18 - Change website layout to static plus blog posts section
+* 2/06/18 - Move project deadline due to time commitments, defined deliverables
 
 
 ## Description
@@ -17,8 +23,17 @@ Before:
 
 After:
 
-_TBD, deployment date 2.07.18_
+_TBD, deployment date 2.09.18_
 
+##Desired Changes
+
+1. Update Portfolio
+2. Two search fields, remove from sidebar or header
+3. Mess with Tag and Category placement
+4. Make header cooler
+5. Build static page that leads to posts
+6. Create homepage template
+6. Upon further inspection in chateau theme code, share on twitter is an option but not displaying on site, debug this.
 
 ## Known Bugs
 
@@ -29,6 +44,7 @@ _NA_
 * Wordpress
 * Hawkhost
 * PHP
+* [Treehouse PHP for Wordpress Tutorial](https://teamtreehouse.com/library/php-for-wordpress)
 
 ### License
 
